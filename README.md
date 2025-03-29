@@ -11,7 +11,7 @@
 <br>
 <p float="left" align="center"  >
   
-<img src="https://github.com/Carloscs10/Projeto-Easy-Shopping-Responsivo/blob/master/Capturar%201%20notbook.PNG?raw=true" width="700px"  />
+<img src="https://github.com/Carloscs10/Projeto-Easy-Shopping-Responsivo/blob/master/Capturar%201%20notbook.PNG?raw=true" width="550px"  />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Carloscs10/Projeto-Easy-Shopping-Responsivo/blob/master/Capturar2%20mobile.PNG?raw=true" height="440"/>
 
